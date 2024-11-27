@@ -1,0 +1,1 @@
+/Users/asko/Desktop/Assignment3PLC24WS/PROG3/target/debug/PROG3: /Users/asko/Desktop/Assignment3PLC24WS/PROG3/src/client.rs /Users/asko/Desktop/Assignment3PLC24WS/PROG3/src/complex.rs /Users/asko/Desktop/Assignment3PLC24WS/PROG3/src/image.rs /Users/asko/Desktop/Assignment3PLC24WS/PROG3/src/main.rs /Users/asko/Desktop/Assignment3PLC24WS/PROG3/src/mandelbrot.rs
